@@ -1,6 +1,6 @@
 ## Borys Generalov  👋
 
-I am a Software Developer and DevOps Engineer (self-employed) with over 19 years of experience building and deploying scalable applications. I specialize in cloud-native development, CI/CD automation, containerization with Kubernetes, and infrastructure as code on AWS and Azure.
+I am a Software Developer and DevOps Engineer (self-employed) with over 20 years of experience building and deploying scalable applications. I specialize in cloud-native development, CI/CD automation, containerization with Kubernetes, and infrastructure as code on AWS and Azure.
 
 Before my current role, I worked at Microsoft as a Senior Consultant focused on Azure Cloud & AI, where I gained invaluable insights into cloud computing and its impact on the industry. Today, I am actively involved in the open-source community, contributing to a variety of projects like [MixedReality](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/javascript/tutorials/babylonjs-webxr-helloworld/introduction-01), [DevOps Dojo](https://devblogs.microsoft.com/devops/author/kantan/) and [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/).
 
